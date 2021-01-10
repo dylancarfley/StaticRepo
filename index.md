@@ -1,1 +1,1 @@
-<h1> hello, world! </h1>
+<img src="static/images/princess.png">
