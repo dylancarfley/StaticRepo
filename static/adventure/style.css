@@ -1,6 +1,6 @@
 body 
 {
-    background-image: url("/static/images/bg.jpg");
+    background-image: url("https://dylancarfley.github.io/StaticRepo/static/images/bg.jpg");
 }
 img 
 {
@@ -10,9 +10,9 @@ img
 {
     margin-top: 5em;
     font-family: 'Marck Script', cursive;
-    background-image: url("/static/images/paper.jpg");
+    background-image: url("https://dylancarfley.github.io/StaticRepo/static/images/paper.jpg");
 }
 nav
 {
-    background-image: url("/static/images/paper.jpg");
+    background-image: url("https://dylancarfley.github.io/StaticRepo/static/images/paper.jpg");
 }
