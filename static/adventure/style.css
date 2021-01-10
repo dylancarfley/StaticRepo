@@ -1,6 +1,6 @@
 body 
 {
-    background-image: url("https://dylancarfley.github.io/StaticRepo/static/images/bg.jpg");
+    background-image: url("https://dylancarfley.github.io/StaticRepo/static/images/bg.jpg"), url(https://dylancarfley.github.io/StaticRepo/static/images/princess.jpg);
 }
 img 
 {
